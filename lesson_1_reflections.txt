@@ -1,0 +1,2 @@
+Using diff to find bugs:
+It could have been harder if not using the command line
