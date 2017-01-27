@@ -1,0 +1,11 @@
+	Reflect: Initializing a Repository
+
+What happens when you initialize a repository? Why do you need to do it?
+	You need to because thats how a git repo is started. In otherwords, the git version control system.
+
+
+	Reflect: Staging Area
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	The staging area is where selected files from the working directory are cached to make commits.
+	Its gives control over how many files from the working directory you want to commit.
