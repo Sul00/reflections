@@ -9,3 +9,11 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 	The staging area is where selected files from the working directory are cached to make commits.
 	Its gives control over how many files from the working directory you want to commit.
+
+
+	Reflect: Commit Size
+
+How can you use the staging area to make sure you have one commit per logical change?
+	By choosing which modified file to add to the staging area and
+	or by using git diff or git diff --staged to compare files between the working directory and staging area, and between the staging area and the last commit from the repository.
+
