@@ -35,3 +35,9 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 	Merging two branches together results in incorporating the commits of the merged branch to the checked out branch.
 	We do so because it gives the view of a map as to where commits belong to.
+
+
+	Reflect: Automatic vs. Manual Merging
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	Automatic merging is far easier and saves a lot of man hours. But lesser control over the merge commits than manual merging but also gets the job done nicely.
