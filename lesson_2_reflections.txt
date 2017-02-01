@@ -28,3 +28,10 @@ What are some situations when branches would be helpful in keeping your history 
 
 How do the diagrams help you visualize the branch structure?
 	it helps you have a bird's eye view of your repository- how your branches are structured
+
+
+	Reflect: Merging Two Branches
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	Merging two branches together results in incorporating the commits of the merged branch to the checked out branch.
+	We do so because it gives the view of a map as to where commits belong to.
