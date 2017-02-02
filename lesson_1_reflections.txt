@@ -1,2 +1,49 @@
-Using diff to find bugs:
-It could have been harder if not using the command line
+	Reflect: Using diff to Find Bugs
+
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+	It was direct and straight comparing what was added between them to fish out the bug
+
+
+	Reflect: Using History for Efficiency	
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+	I can copy my codes and replicate processes. Moreover it can serve as my learning log
+
+    
+	Reflect: Manual Commits
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+	Manual commits allow you to structure your file history the way you want to, thus version-control
+    Yeah your file saves automatically but but.... no extensive versioning, consequently, debugging issues, harder breaking down code.
+
+	
+	Reflect: Multi-File Commits
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+	This gives you flexibilty over logical changes on multiple linked files.
+  
+	
+	Reflect: Using Git to View History
+
+How can you use the commands git log and git diff to view the history of files?
+ 	git log shows you the history of your commits
+ 	git diff shows you changes between 2 commits
+   
+	
+	Reflect: Confidence from Version Control
+
+How might using version control make you more confident to make changes that
+could break something?
+	You can simply go back to previous versions if you break something thus allowing you to experiment
+
+   
+	Reflect: How Do You Want to Use Git?
+
+Now that you have your workspace set up, what do you want to try using Git for?
+	For complex projects, for experimentation and as a learning log
+    
